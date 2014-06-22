@@ -12,4 +12,4 @@ This readme provides a short explanation of the files found in the current repo.
 
 - run_analysis.R: A R script that creates the tidy dataset. The workings of the script are commented in the script itself. Just put the script in your preferred working directory and run it.
 
-- codebook.txt: A slightly modified version of the codebook origionally supplied with the data
+- codebook.txt: A slightly modified version of the codebook originally supplied with the data
